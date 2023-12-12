@@ -1,7 +1,7 @@
 # Deep Reinforcement Learning to Play Side Scrolling Video Games
 Deep Reinforcement Learning Project
 
-Game playing is an important & interesting task in the field of AI and Deep Learning. One way to train AI agents to play video games is use reinforcement learning; in which an agent learns to make actions in an environment with the appropriate reward as feedback from the environment. Here, we create a custom agent to play the classic 1995 side scrolling game, captain Claw, then use a custom Deep Q-Learning network to train an AI agent to play the same.
+Game playing is an important & interesting task in the field of AI and Deep Learning. One way to train AI agents to play video games is use reinforcement learning; in which an agent learns to make actions in an environment with the appropriate reward as feedback from the environment. Here, we create a custom agent to play the classic 1995 side scrolling game, Captain Claw, then use a custom Deep Q-Learning network to train an AI agent to play the same.
 
 ## Steps
 
